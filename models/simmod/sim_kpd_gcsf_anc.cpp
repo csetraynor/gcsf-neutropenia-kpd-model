@@ -1,4 +1,7 @@
-// Created: 2020-01-06 15:13:31 UTC
+// --------------------------------------------------------------------------
+// Kinetic-Pharmacodynamic (KPD) Model with G-CSF for Docetaxel-Induced
+// Neutropenia
+// --------------------------------------------------------------------------
 // Author: Carlos Serra Traynor
 $GLOBAL
 
